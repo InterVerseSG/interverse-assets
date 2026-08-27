@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "target_platform": "Meta Quest",
+  "assets": [
+    {"id":"wall_basic","object_type":"wall","blueprint":"BP_WallBasic","category":"architecture","quest_ready":true,"max_instances_per_command":50},
+    {"id":"floor_basic","object_type":"floor","blueprint":"BP_FloorBasic","category":"architecture","quest_ready":true,"max_instances_per_command":20},
+    {"id":"door_interactive","object_type":"door","blueprint":"BP_DoorInteractive","category":"architecture","quest_ready":true,"max_instances_per_command":20},
+    {"id":"window_basic","object_type":"window","blueprint":"BP_WindowBasic","category":"architecture","quest_ready":true,"max_instances_per_command":30},
+    {"id":"chair_standard","object_type":"chair","blueprint":"BP_FurnitureChair","category":"furniture","quest_ready":true,"max_instances_per_command":100},
+    {"id":"desk_standard","object_type":"desk","blueprint":"BP_FurnitureDesk","category":"furniture","quest_ready":true,"max_instances_per_command":50},
+    {"id":"screen_interactive","object_type":"screen","blueprint":"BP_InteractiveScreen","category":"interactive","quest_ready":true,"max_instances_per_command":10},
+    {"id":"sign_interactive","object_type":"sign","blueprint":"BP_SignInteractive","category":"interactive","quest_ready":true,"max_instances_per_command":20},
+    {"id":"tree_optimized","object_type":"tree","blueprint":"BP_TreeOptimized","category":"environment","quest_ready":true,"max_instances_per_command":100},
+    {"id":"light_optimized","object_type":"light","blueprint":"BP_LightOptimized","category":"lighting","quest_ready":true,"max_instances_per_command":40},
+    {"id":"navigation_point","object_type":"navigation_point","blueprint":"BP_NavigationPoint","category":"navigation","quest_ready":true,"max_instances_per_command":50}
+  ]
+}
