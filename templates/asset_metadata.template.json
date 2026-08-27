@@ -1,0 +1,27 @@
+{
+  "asset_id": "campus_zone_asset_name",
+  "display_name": "",
+  "category": "architecture",
+  "campus_zone": "",
+  "object_type": "",
+  "blueprint": "",
+  "source": {
+    "capture_date": "YYYY-MM-DD",
+    "capture_method": "video|photos|lidar|manual|generated",
+    "processing_method": "photogrammetry|gaussian_splatting|manual_model|hybrid"
+  },
+  "technical": {
+    "scale_verified": false,
+    "collision_verified": false,
+    "triangle_count_lod0": 0,
+    "material_slots": 0,
+    "max_texture_resolution": 0,
+    "lod_count": 0
+  },
+  "quest": {
+    "quest_ready": false,
+    "tested_device": "Meta Quest 3",
+    "tested_build": "",
+    "notes": ""
+  }
+}
